@@ -80,3 +80,9 @@ Berikut adalah dashboard dari hasil analisis:
 
 ## Recommendation
 Berdasarkan temuan tersebut, terdapat beberapa rekomendasi strategis yang dapat dilakukan. Pertama, optimasi alamat dan GPS perlu ditingkatkan untuk mengurangi masalah wrong address maupun kasus driver not moving. Kedua, peningkatan komunikasi antara customer dan driver dapat dilakukan melalui notifikasi yang lebih jelas serta penyediaan fitur in-app chat yang lebih efektif. Ketiga, diperlukan inisiatif retensi driver, seperti pemberian insentif khusus bagi pengemudi dengan tingkat pembatalan rendah dan rating yang tinggi, sehingga kualitas layanan tetap terjaga. Selain itu, promosi pada layanan Premier dan XL dapat ditingkatkan untuk mendorong permintaan di segmen high-value rides. Terakhir, perlu adanya fokus pada perluasan penggunaan pembayaran digital melalui promo dan diskon yang menarik, khususnya pada metode UPI dan dompet digital, guna meningkatkan kenyamanan transaksi sekaligus mengurangi ketergantungan pada pembayaran tunai.
+
+## Kontributor
+- Nama :  Rizka Hasna Nabila
+- Email : rizkahasna94@gmail.com
+- Github : @rizkaa-hn
+- Linkedin : https://www.linkedin.com/in/rizkahasnanabila/ 
